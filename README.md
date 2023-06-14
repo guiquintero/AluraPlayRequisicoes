@@ -10,6 +10,13 @@
 * NodeJS
 * Json-server
 
+##Link for a better view:
+https://guiquintero.github.io/AluraPlayRequisicoes/
+
+OBS: Maybe some functionality is't working due to json-server not running
+
 ## Screenshots
 ![Screenshot da tela inicial do AluraPlay](https://imgur.com/aymxEsh.png)
 ![Screenshot da tela do formulário do AluraPlay](https://imgur.com/ShNADf2.png)
+
+
